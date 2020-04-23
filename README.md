@@ -25,10 +25,14 @@ g)dodawanie wielu wersji systemów do GRUB
 Opis zadań:
 
 1. Setup środowiska:
+
    ubuntu:
+
    sudo apt install -y qemu xorriso grub-efi-amd64:i386
+
    debian:
-   apt-get install -y git qemu xorriso grub-efi wget zip unzip mtools 
+
+   apt-get install -y git qemu-system-i386 grub-efi wget zip unzip mtools 
    
    
    

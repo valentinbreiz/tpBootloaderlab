@@ -154,7 +154,7 @@ zadaniem jest: </br>
 
 4.implementacja wizualizacji postępów programu.
 
-5.połączenie 1,2,3,4 w jeden obraz iso dający możliwość wyboru dowolnego z czterech systemów.(spakowany w zip powinien mieć około 3 Mb)
+5.połączenie 1,2,3,4 w jeden obraz iso dający możliwość wyboru dowolnego z czterech systemów.(spakowany w zip powinien mieć około 3 MB)
 
 ## Środowiskiem pracy:
 
